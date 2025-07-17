@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import fondoParaElla from '../assets/fondo-para-ella.png';
 import gothicPattern from '../assets/gothic-pattern.png';
 import gothicMist from '../assets/gothic-mist.png';

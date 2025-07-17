@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Heart, Moon, Star } from 'lucide-react';
 
 const Footer = () => {
